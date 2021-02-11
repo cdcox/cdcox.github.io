@@ -13,8 +13,10 @@ Model output, as you can see, the simualted and real traces are similar. Also a 
 
 ![png](bgunn.png)
 
-
 ## Computer vision and  Convolutional neural networks
+
+Project 1:
+
 
 ## Big data analysis
 

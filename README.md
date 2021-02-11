@@ -9,9 +9,9 @@ Model Schematic:
 
 ![png](supplementalfigure1%20(1).png) 
 
-Model output:
+Model output, as you can see, the simualted and real traces are similar. Also a decrease in DG frequencey leads to a decrease in EPSC frequency, and a decrease in SPW frequency, a pair of traits found to be linked in actual slices. This allowed us to strengthen the length between these two traits, both of which increase in esponse to stress.
 
-![png](bhx103f08.png)
+![png](bgunn.png)
 
 
 ## Computer vision and  Convolutional neural networks

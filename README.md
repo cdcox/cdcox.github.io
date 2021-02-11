@@ -7,7 +7,7 @@ Code can be found at: https://github.com/cdcox/CoxCoxGunnetal2019
 Published in: Gunn, Cox et al;  The Endogenous Stress Hormone CRH Modulates Excitatory Transmission and Network Physiology in Hippocampus Cerb Cort, 2019
 Model Schematic:
 
-![png](supplementalfigure1.png) 
+![png](supplementalfigure1 (1).png) 
 
 Model output:
 
